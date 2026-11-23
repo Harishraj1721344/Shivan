@@ -4,7 +4,7 @@
    ============================================================ */
 const CONFIG = {
   // Paste your Google Apps Script Web App URL here (see README.md)
-  SHEET_URL: 'PASTE_YOUR_APPS_SCRIPT_WEB_APP_URL_HERE',
+  SHEET_URL: 'https://script.google.com/macros/s/AKfycbx27dueDycU_NQRC2imY3QAMTa48O9eVEy5QeEwYCZQEMO0x7t13RJL3bTV16Gyn1MH/exec',
 
   // WhatsApp number with country code, digits only
   WHATSAPP: '916382108462',
