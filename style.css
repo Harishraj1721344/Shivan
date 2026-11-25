@@ -322,6 +322,8 @@ h1, h2, h3, h4, h5 { letter-spacing: -.01em; }
 .footer { background: var(--night); color: #fff; padding: 48px 0 90px; position: relative; }
 .footer::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 4px; background: linear-gradient(90deg, var(--fire), var(--sky), var(--gold), var(--yellow)); }
 .footer .disclaimer { max-width: 780px; margin: 0 auto; color: #ffd27a; }
+.footer .powered { color: rgba(255,255,255,.65); letter-spacing: .04em; }
+.footer .powered strong { color: var(--yellow); font-weight: 600; }
 .footer-logo { background: #fff; border-radius: 18px; padding: 8px 16px; display: inline-block; margin-bottom: 14px; box-shadow: 0 10px 26px rgba(0,0,0,.3); }
 .footer-logo img { height: 70px; width: auto; }
 
